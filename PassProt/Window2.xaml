@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApplication1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Create Master Password" Height="149.438" Width="452" ResizeMode="NoResize" WindowStyle="None">
+    <Grid Margin="0,0,0,20.4">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="35" Margin="10,46,0,0" VerticalAlignment="Top" Width="424" FontSize="14" TextWrapping="Wrap" />
+        <Button x:Name="button" Content="Submit" HorizontalAlignment="Left" Margin="332,89,0,0" VerticalAlignment="Top" Width="102" Height="36" FontSize="14" Click="button_Click"/>
+        <Label x:Name="label" Content="Create Master Password" HorizontalAlignment="Left" Margin="10,17,0,0" VerticalAlignment="Top" Width="298"/>
+
+    </Grid>
+</Window>
