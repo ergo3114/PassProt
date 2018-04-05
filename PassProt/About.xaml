@@ -9,6 +9,6 @@
     <Grid Margin="0,0,0,0">
         <!--&#xD;&#xA;-->
         <Button x:Name="button" Content="Ok" HorizontalAlignment="Left" Margin="200,106,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
-        <Label x:Name="label" Content="-Password Protector&#xA;-Created by C. David Littlejohn&#xA;-Twitter: @littlejohnpsh&#xA;-Github: https://github.com/ergo3114/PassProt&#xA;-Version: 1.0.0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="91" Width="274" HorizontalContentAlignment="Center" />
+        <Label x:Name="label" Content="-PassProt = Password Protector&#xA;-Created by C. David Littlejohn&#xA;-Twitter: @littlejohnpsh&#xA;-Github: https://github.com/ergo3114/PassProt&#xA;-Version: 1.0.0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="91" Width="274" HorizontalContentAlignment="Center" />
     </Grid>
 </Window>
